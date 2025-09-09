@@ -1,5 +1,12 @@
-//
-// Created by HIKMATULLOH ABDUMALIKOV on 09/09/25.
-//
+#include <iostream>
+using namespace std;
 
-#include "problem6.h"
+int main() {
+    int num1, num2;
+
+    cin >> num1 >> num2;
+
+    cout << "Sum: " << num1 << " + " << num2 << " = " << (num1 + num2) << endl;
+
+    return 0;
+}

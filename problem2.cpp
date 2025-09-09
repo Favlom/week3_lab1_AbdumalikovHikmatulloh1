@@ -1,6 +1,15 @@
-//
-// Created by HIKMATULLOH ABDUMALIKOV on 09/09/25.
-//
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hikmatulloh Abdumalikov" << endl;
+    cout << "240493" << endl;
+    cout << "Honeypie" << endl;
+    cout << "Interstellar" << endl;
+
+    return 0;
+}
+
 
 
 
